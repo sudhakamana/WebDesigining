@@ -1,0 +1,191 @@
+.sk{
+    
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+    margin: 0;
+    background-color: beige;
+}
+.sk h1{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+   font-family: 'Newsreader', serif;
+}
+.sk p{
+    padding-left: 37%;
+    /*font-size: 1rem;
+     rootelement to define the size of the fonts*/
+     font-weight: 100;
+     /*line-height: 2; - which will be used to get space blw the top and bottom*/
+}
+.cloud-2{
+    position: absolute;
+    top: 150px;
+}
+.cloud-1{
+    position: relative;
+    left: 200px;
+}
+
+.des{
+    text-decoration: underline;
+}
+.nav{
+    margin: 0px;
+    padding:0px;
+       
+}
+.nav ul{
+    padding: 0;
+    margin: 0;
+}
+.nav ul li{
+    display: inline;
+}
+.nav img{
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+.right{
+    position: relative;
+    left: 75%;
+    margin: 10px;
+    bottom: 50px;
+}
+.right a{
+    text-decoration: none;
+    color: black;
+}
+.right a:hover{
+    color:cornflowerblue;
+}
+
+.middle img{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    margin-left: 49%;
+    margin-top: 35px;
+}
+.middle h3, p{
+    text-align: center;
+    width: 25%;
+    padding-left: 40%;
+    line-height: 1.5;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 5%;
+    margin-left: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-color: grey;
+
+}
+.container-can h1{
+    text-align: center;
+    width: 25%;
+    margin-left: 40%;
+    height: 50px;
+    padding-top: 15px;
+    background-color: grey;
+}
+.container-can img{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}
+.container-1{
+    width: 50%;
+    text-align: left;
+    margin: 30px auto 30px auto;
+    line-height: 2;
+}
+.container-1 h3{
+    text-align: center;
+}
+.container-1 p{
+    width: 50%;
+    text-align: center;
+}
+.container-1 img{
+    float: left;
+    margin-left: 130px;
+    margin-top: 20px;
+    
+}
+.container-develop{
+    width: 50%;
+    text-align: left;
+    margin: 30px auto 30px auto;
+    line-height: 2; 
+}
+.container-develop img{
+    float:right;
+    margin-right: 100px;  
+    border-radius: 100%;
+}
+.container-develop p{
+    width: 50%;
+    text-align: center;
+    padding: 0px;
+    padding-left: 100px;
+}
+.container-develop h3{
+text-align: center;
+}
+.help{
+    width: 50%;
+    margin: 30px auto 70px auto;
+    line-height: 2; 
+    background-color:darkseagreen;
+   
+}
+.help h1{
+    text-align: center;
+    margin: 0px;
+}
+.help p{
+    width: auto;
+    text-align: center;
+    padding: 0px;
+    margin-top: 0px;
+}
+.help a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+.help a:hover{
+    color:chocolate;
+}
+.footer{
+    background-color: cornflowerblue;
+    height: auto;
+}
+.footer ul{
+    text-align: center;
+    padding-top: 20px;
+
+}
+.footer ul li{
+    display: inline;
+    margin: 20px auto 20px auto;
+    width: 50%;
+}
+.footer ul li a{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+.footer p{
+    margin: 0px;
+}
