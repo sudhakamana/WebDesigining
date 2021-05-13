@@ -29,6 +29,7 @@ body{
 .cloud-1{
     position: relative;
     left: 200px;
+    margin-top: 50px;
 }
 
 .des{
@@ -37,7 +38,9 @@ body{
 .nav{
     margin: 0px;
     padding:0px;
-       
+    position: fixed;
+    background-color: #e1f1dd;
+    width: 100%;       
 }
 .nav ul{
     padding: 0;
@@ -53,10 +56,8 @@ body{
     margin-left: 50px;
 }
 .right{
-    position: relative;
-    left: 75%;
-    margin: 10px;
-    bottom: 50px;
+    float: right;
+    margin: 25px;
 }
 .right a{
     text-decoration: none;
